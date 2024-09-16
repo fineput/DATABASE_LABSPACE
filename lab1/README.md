@@ -22,3 +22,7 @@
 ### Завдання 4
 #### Результат:
 ![image](https://github.com/user-attachments/assets/cc392dda-f641-45b8-865a-5b861a40e229)
+
+### Завдання 5
+#### Результат:
+![image](https://github.com/user-attachments/assets/fcaa21ee-14bc-45ff-9fc0-72ec0f640487)
