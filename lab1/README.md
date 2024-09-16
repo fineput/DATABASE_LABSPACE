@@ -18,3 +18,7 @@
 ### Завдання 3
 #### Результат:
 ![image](https://github.com/user-attachments/assets/e934fdf7-086c-47e6-bc90-76be7a120eb5)
+
+### Завдання 4
+#### Результат:
+![image](https://github.com/user-attachments/assets/cc392dda-f641-45b8-865a-5b861a40e229)
