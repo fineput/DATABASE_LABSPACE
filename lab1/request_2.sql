@@ -1,0 +1,4 @@
+SELECT name
+FROM cities
+ORDER BY name DESC
+LIMIT 30;
